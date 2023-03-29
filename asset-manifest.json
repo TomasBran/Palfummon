@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Palfummon/static/css/main.1ef13593.css",
-    "main.js": "/Palfummon/static/js/main.d10fdb43.js",
+    "main.js": "/Palfummon/static/js/main.16fbe0fa.js",
     "static/js/787.b1f3f170.chunk.js": "/Palfummon/static/js/787.b1f3f170.chunk.js",
     "index.html": "/Palfummon/index.html",
     "main.1ef13593.css.map": "/Palfummon/static/css/main.1ef13593.css.map",
-    "main.d10fdb43.js.map": "/Palfummon/static/js/main.d10fdb43.js.map",
+    "main.16fbe0fa.js.map": "/Palfummon/static/js/main.16fbe0fa.js.map",
     "787.b1f3f170.chunk.js.map": "/Palfummon/static/js/787.b1f3f170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef13593.css",
-    "static/js/main.d10fdb43.js"
+    "static/js/main.16fbe0fa.js"
   ]
 }
