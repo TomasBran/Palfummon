@@ -1,0 +1,9 @@
+p{
+    max-width: 430px;
+    max-height: 80px;
+}
+
+p:hover{
+    font-weight: bold;
+    cursor:default;
+}

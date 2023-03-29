@@ -1,0 +1,30 @@
+.GameEventPanel{
+    display: flex;
+    align-items: center;
+    width:600px;
+}
+
+.GameEventContainer{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-width: 700px;    
+}
+
+.Chala{
+    height: 150px;
+}
+
+.Chala:hover{
+    cursor:pointer;
+}
+
+.GameEventPanel p{
+    font-weight: bold;
+}
+
+.Hidden{
+    display:none;
+}

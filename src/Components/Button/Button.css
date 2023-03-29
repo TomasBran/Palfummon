@@ -1,0 +1,16 @@
+.Button{
+    background-color: rgb(255, 255, 255);
+    padding: 7px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color:black;
+    border: rgb(99, 99, 99) 2px solid;
+    min-width: 100px;
+}
+
+.Button:hover{
+    transform: scale(1.1);
+    transition: all ease 0.25s;
+    cursor: pointer;
+}
+

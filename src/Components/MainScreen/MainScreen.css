@@ -1,0 +1,14 @@
+@keyframes opacityChange{
+    0% {opacity: 0%;}
+    100% {opacity: 100%;}
+}
+
+.MainTitle, .HowToPlay, .EventListContainer{
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    animation: opacityChange linear 0.75s ;
+}
